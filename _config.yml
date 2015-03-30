@@ -15,7 +15,7 @@ footer: Copyright lumen 2015
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/lumenwebdevelopmet
+    url: https://twitter.com/lumenwebdevelopment
 
 # Build settings
 markdown: kramdown
